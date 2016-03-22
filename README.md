@@ -3,4 +3,4 @@ This program reads a text file 'terms.rtf' for search terms. It then uses Gigabl
 
 This program copuld be useful for practicing basic text mining. In this case, our team analyzed the results by using spectral clustering in R.
 
-Gigablast API credentials are necessary for the proper use of this program.
+Gigablast API credentials are necessary for the proper use of this program. See https://gigablast.com/api.html
